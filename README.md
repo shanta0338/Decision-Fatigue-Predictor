@@ -24,12 +24,6 @@ Expects features relevant to decision fatigue, such as:
 
 Sample datasets may draw from public sources or simulated data mimicking real-world behavioral logs.
 
-## Model Architecture
-
-Employs supervised ML models (e.g., Gradient Boosting, Neural Networks) trained on labeled fatigue indicators for binary/multi-class prediction.
-
-Performance metrics include accuracy in identifying moderate-to-severe fatigue states.
-
 ## Contributing
 
 Fork the repo, create a branch, make changes, and submit a PR. Focus on improving model accuracy or adding fatigue mitigation features.
