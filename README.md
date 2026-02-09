@@ -4,7 +4,7 @@ A machine learning project designed to predict decision fatigue levels using use
 
 ## Overview
 
-Decision fatigue refers to the deteriorating quality of decisions after prolonged decision-making, due to depleted cognitive resources. This predictor model applies ML techniques like neural networks or gradient boosting to forecast fatigue, aiding in productivity optimization and mental health monitoring.[^3][^4][^2][^1]
+Decision fatigue refers to the deteriorating quality of decisions after prolonged decision-making, due to depleted cognitive resources. This predictor model applies ML techniques like neural networks or gradient boosting to forecast fatigue, aiding in productivity optimization and mental health monitoring.
 
 The project likely leverages Python frameworks such as TensorFlow or PyTorch for model training, aligning with common practices in behavioral ML applications.
 
