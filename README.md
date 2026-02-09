@@ -13,25 +13,6 @@ The project likely leverages Python frameworks such as TensorFlow or PyTorch for
 - Predicts fatigue from quantifiable inputs like daily decisions and sleep quality.
 - Potential visualizations including decision heatmaps or willpower battery metrics.
 - Supports strategies to mitigate fatigue, such as automation suggestions.
-
-## Usage
-
-- Prepare dataset with features (e.g., CSV with columns for decisions_made, sleep_hours, task_switches).
-- Train the model:
-
-```
-python train.py --data data/train.csv --model output/model.pth
-```
-
-- Predict:
-
-```
-python predict.py --model output/model.pth --input data/test.csv
-```
-
-
-Adjust scripts based on project files like `train.py` or `model.py`.
-
 ## Dataset
 
 Expects features relevant to decision fatigue, such as:
@@ -57,9 +38,4 @@ Fork the repo, create a branch, make changes, and submit a PR. Focus on improvin
 
 MIT License (or check LICENSE file).
 
-## References
-
-- Conceptual basis from decision fatigue research.
-- ML inspiration from alert fatigue prediction models.
-<span style="display:none">[^10][^11][^12][^13][^14][^15][^16][^17][^18][^8][^9]</span>
 
