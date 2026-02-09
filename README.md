@@ -32,4 +32,5 @@ Fork the repo, create a branch, make changes, and submit a PR. Focus on improvin
 
 MIT License (or check LICENSE file).
 
-
+## Live Link
+https://decision-fatigue-predictorgit-np6xsmwbg6koh6qrxk95cu.streamlit.app
