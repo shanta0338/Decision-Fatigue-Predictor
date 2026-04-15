@@ -5,6 +5,8 @@ A machine learning project designed to predict decision fatigue levels using use
 ## Overview
 
 Decision fatigue refers to the deteriorating quality of decisions after prolonged decision-making, due to depleted cognitive resources. This predictor model applies ML techniques like neural networks or gradient boosting to forecast fatigue, aiding in productivity optimization and mental health monitoring.
+## Live Link
+https://decision-fatigue-predictorgit-np6xsmwbg6koh6qrxk95cu.streamlit.app
 
 ## Features
 
@@ -30,5 +32,4 @@ Fork the repo, create a branch, make changes, and submit a PR. Focus on improvin
 
 MIT License (or check LICENSE file).
 
-## Live Link
-https://decision-fatigue-predictorgit-np6xsmwbg6koh6qrxk95cu.streamlit.app
+
