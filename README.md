@@ -6,7 +6,7 @@ A machine learning project designed to predict decision fatigue levels using use
 
 Decision fatigue refers to the deteriorating quality of decisions after prolonged decision-making, due to depleted cognitive resources. This predictor model applies ML techniques like neural networks or gradient boosting to forecast fatigue, aiding in productivity optimization and mental health monitoring.
 ## Live Link
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)]([https://your-app.streamlit.app](https://decision-fatigue-predictorgit-np6xsmwbg6koh6qrxk95cu.streamlit.app))
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)]([https://decision-fatigue-predictorgit-np6xsmwbg6koh6qrxk95cu.streamlit.app]
 
 ## Features
 
